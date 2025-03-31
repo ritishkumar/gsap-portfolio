@@ -1,5 +1,5 @@
 const lerp = (x, y, a) => x * (1 - a) + y * a;
-/* ===( Creative By : CODE AASHU )=== */
+
 function cursorAnim() {
   const crsr = document.querySelector(".cursor");
   const main = document.querySelector(".main");
